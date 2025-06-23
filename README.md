@@ -39,7 +39,7 @@ https://github.com/YABOIpy/GoDm/releases
 ```md
 Inputs:
 ________________________________________________
-  [0] Refreshes GoDm
+  [0] Refreshes Moilted
   [1] Message & Scraped Ids in ids.txt
   [2] victims User ID
   [3] Channel ID & Message ID
